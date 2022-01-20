@@ -29,6 +29,10 @@
 	}
 }
 
+.language-nav li:first-of-type{
+	font-weight: bold;
+}
+
 .logo {
 	max-width: 400px;
 	margin-top: 10px;
@@ -43,7 +47,7 @@
 
 	li {
 		margin-left: 10px;
-		border-right: 1px solid $light-gray;
+		// border-right: 1px solid $light-gray;
 	}
 
 	button {
