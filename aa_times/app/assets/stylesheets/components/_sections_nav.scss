@@ -1,0 +1,12 @@
+ul {
+    display: flex;
+    justify-content: center;
+}
+
+li{
+     padding: 10px 0px 10px 10px;
+}
+
+.sections-nav  li:last-of-type{
+    text-decoration: underline;
+}
