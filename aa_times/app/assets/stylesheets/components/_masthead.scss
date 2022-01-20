@@ -6,6 +6,26 @@
 	position: relative;
 }
 
+#green {
+	color: green;
+}
+
+.date-and-stuff > ul {
+	display: flex;
+	//  padding: 10px 10px 10px 10px;
+	//  justify-content: space-between;
+}
+
+.date-and-stuff > ul > li{
+	 padding: 10px 10px 10px 10px;
+	 justify-content: space-between;
+}
+
+.masthead {
+	display: flex;
+	justify-content: space-between;
+}
+
 .language-nav {
 	position: absolute;
 	top: -15px;
