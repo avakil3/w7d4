@@ -216,3 +216,5 @@ Started GET "/assets/application.self-6fd82f81f2ad7405f01730d3ed8bc2634540b16e93
 Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2022-01-20 13:45:37 -0500
 Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2022-01-20 13:45:37 -0500
 Started GET "/assets/components/sidebar.self-2a1277f850a6fa21e1a974ef5152f177ac05516477d5081d593bb137b3d6808b.js?body=1" for ::1 at 2022-01-20 13:45:37 -0500
+Started GET "/assets/application.self-6fd82f81f2ad7405f01730d3ed8bc2634540b16e930b9a091f3d514a814c3121.css?body=1&livereload=1642705240280" for ::1 at 2022-01-20 14:00:40 -0500
+Started GET "/assets/application.self-6fd82f81f2ad7405f01730d3ed8bc2634540b16e930b9a091f3d514a814c3121.css?body=1&livereload=1642705240291" for ::1 at 2022-01-20 14:00:40 -0500
