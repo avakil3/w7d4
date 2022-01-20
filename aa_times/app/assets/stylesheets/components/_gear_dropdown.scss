@@ -7,11 +7,34 @@
     display: none;
     position: absolute;
     top: 20px;
-    right: -50px;
-    text-align: left;
-
+    right: -32px;
+	text-align: center;
+	z-index: 1;
+	border: 1px solid grey;
+	background-color: white;
 }
 
 #gear-button:hover .gear-dropdown{
     display: block;
+}
+
+.help {
+	border-top: 1px solid grey;
+	padding-top: 10px;
+}
+
+
+.editions, .help  {
+	display:flex;
+	flex-direction: column;
+	// justify-content: space-between;
+	background-color: white;
+}
+
+.help li:first-of-type {
+	text-decoration: underline;
+}
+
+.help li  {
+	color: lightskyblue;
 }
